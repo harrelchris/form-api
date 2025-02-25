@@ -1,0 +1,16 @@
+.git/
+.idea/
+.local/
+.venv/
+__pycache__/
+scripts/
+.dockerignore
+.editorconfig
+.env
+.gitignore
+default.conf
+docker-compose.yml
+Dockerfile
+example.env
+README.md
+ruff.toml
